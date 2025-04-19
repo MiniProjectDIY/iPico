@@ -5,7 +5,7 @@ RP2350 based UF2 hardware security key
 
 ## Hardware
 
-iPico use the same IO as official raspberry pi Pico2 board,replace physical push button with capacitive touch button on pcb.
+iPico use the same IO as official raspberry pi Pico2 board, just replaced physical push button with capacitive touch button on pcb and change usb connector from female to male.
 
 ## Firmware
 
